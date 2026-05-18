@@ -4,7 +4,7 @@ Projekt semestralny z przedmiotu Bazy Danych. Przedmiotem projektu jest w pełni
 
 ## Autorzy
 * **Maja Zontek**
-* **Julia Estkowska** *(Modelowanie Matematyczne i Analiza Danych, MFI UG)*
+* **Julia Estkowska**
 
 ---
 
